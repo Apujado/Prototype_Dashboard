@@ -1,4 +1,4 @@
-# Prototype_Dashboard
+# WIP Prototype_Dashboard
 “Un tableau de bord complet, automatisé et 100 % sur-mesure — sans dépendance à Microsoft, sans licences, et accessible pour les budgets TPE/PME.”
 
 🎯 1. Choix de cible : 
